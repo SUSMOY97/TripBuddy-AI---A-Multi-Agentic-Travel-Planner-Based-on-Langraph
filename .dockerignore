@@ -1,0 +1,4 @@
+travel/
+.env
+.git/
+**/__pycache__/
